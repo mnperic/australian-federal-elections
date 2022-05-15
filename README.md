@@ -3,7 +3,7 @@
  
 ## Overview
 
-The premise of this project was to plot and analyse historical Australian Federal Elections results, by state and voting percentage, to visualise trends and voting patterns.
+The premise of this project was to analyse historical Australian Federal Elections results, based on <b>voting percentage</b> and <b>two-party preferred votes</b> (by state and party).
 
 ## Analysis
 ### Voting Percentage – by Party
